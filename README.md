@@ -1,16 +1,23 @@
-### Hi there 👋
+# Hi there, I'm Zaw Htet Aung 👋
 
-<!--
-**ZawHtetAungSCM/ZawHtetAungSCM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate full-stack and mobile developer with a love for creating innovative and user-friendly applications. I enjoy turning ideas into code and solving complex problems through technology. Here's a little about me:
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning Flutter
+- 📫 How to reach me: zawhtetaung@metateammyanmar.com
+- 😄 Pronouns: [ဇော်ထက်အောင်](https://www.howtopronounce.com/zaw-htet-aung)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 Skills
+
+| Frontend           | Backend            | Mobile Development | Databases          | Tools & DevOps     |
+|--------------------|--------------------|--------------------|--------------------|--------------------|
+| React.js           | PHP (Laravel)      | React Native       | SQL (MySQL, PostgreSQL)  | Git & GitHub |
+| Vue.js             | Nest.js            | Kotlin (Android)   | NoSQL (MongoDB, Firebase) | Docker       |
+| Tailwind (CSS)     |                    | Flutter            | ORM (Prisma)       |                    |
+| Bootstrap (CSS)    |                    |                    |                    |                    |
+
+## 🚀 Let's Collaborate
+
+If you have an interesting project idea or just want to chat about technology, feel free to reach out. Let's build something amazing together!
+
+Thanks for visiting my GitHub profile! 😄
+
